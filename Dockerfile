@@ -9,7 +9,7 @@
 #
 
 # pull base image
-FROM williamyeh/scala:2.11.2
+FROM williamyeh/scala:2.11.4
 MAINTAINER William Yeh <william.pjyeh@gmail.com>
 
 

@@ -18,7 +18,7 @@ This docker image contains the following software stack:
 
 - Java: Oracle JDK 1.7.0
 
-- Scala: 2.11.2
+- Scala: 2.11.4
 
 - Sbt
 
