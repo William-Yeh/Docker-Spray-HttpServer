@@ -53,7 +53,8 @@ RUN apt-get update  && \
     cd /tmp  && \
     rm -rf spray  && \
     apt-get remove -y --auto-remove git  && \
-    apt-get clean
+    apt-get clean  && \
+    rm -rf /var/lib/apt/lists/*
 
 
 # configure
